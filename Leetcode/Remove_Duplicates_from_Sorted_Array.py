@@ -17,4 +17,4 @@ class Solution(object):
 
 # This solution works because we are not modifying the list while iterating, so no unexpected behaviour is caused. 
 
-# RT: 90 ms Beats 6.90%; Memory: 14.18 MB Beats 10.29%
+# RT: 85 ms Beats 7.70%; Memory: 14.18 MB Beats 10.29%
