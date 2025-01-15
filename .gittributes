@@ -1,3 +1,0 @@
-*.sql linguist-detectable=true
-*.myd linguist-language=SQL
-*.sql text
